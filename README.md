@@ -4,7 +4,7 @@
 
 # Description:
 
-### Excel clone is built with technologies such as HTML, CSS, JAVASCRIPT .
+### Excel clone is built with technologies such as HTML, CSS, JQUERY .
 ### Some features of this project are -
 - Formula evaluation
 - Cycle detection in formula
