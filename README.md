@@ -15,4 +15,4 @@
 
 ## Frontend:
 - Programming Language: JavaScript
-- IDE: VScode
+- IDE: VS Code
