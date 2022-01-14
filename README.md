@@ -4,7 +4,7 @@
 
 # Description:
 
-### Excel clone is built with technologies such as HTML, CSS, JQUERY .
+### Excel clone is built with technologies such as HTML, CSS, JAVASCRIPT .
 ### Some features of this project are -
 - Formula evaluation
 - Cycle detection in formula
@@ -14,5 +14,5 @@
 - we can add/delete sheet
 
 ## Frontend:
-- Programming Language: Javascript
+- Programming Language: JavaScript
 - IDE: VScode
