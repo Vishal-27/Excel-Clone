@@ -74,7 +74,7 @@ $(document).ready(function () {
     $(".input-cell").click(function(e)
     {
 
-        if(e.metaKey )
+        if(e.ctrlKey )
         {
             let [rowId,colId] = getRowCol(this);
             if(rowId > 1) {
